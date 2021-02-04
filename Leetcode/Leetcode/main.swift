@@ -8,9 +8,8 @@
 import Foundation
 
 //MARK: - 爬楼梯问题
-print(climb(5))
-print(climbStairs(5))
-
+//print(climb(5))
+//print(climbStairs(5))
 
 //MARK: - 杨辉三角问题
 
